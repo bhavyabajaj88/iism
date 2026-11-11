@@ -1,0 +1,29 @@
+apply.py
+  2b4b58433f12d58e 1,3-5,7-9,18-19,22-24,26-35,38-52,54-106,110-112,114,123
+apply_http.py
+  2b4b58433f12d58e 1-202
+.gitignore
+  2b4b58433f12d58e 6-8
+common.py
+  2b4b58433f12d58e 1-268
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a40ec9ba27acd3ccc48337056504810e4a3171fa",
+  "prompts": {
+    "2b4b58433f12d58e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "09f20dd4-380b-4c68-ba13-b1afdaedba31",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Bhavya Bajaj",
+      "messages": [],
+      "total_additions": 653,
+      "total_deletions": 311,
+      "accepted_lines": 574,
+      "overriden_lines": 0
+    }
+  }
+}
