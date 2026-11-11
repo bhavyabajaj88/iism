@@ -3,3 +3,6 @@ prepared/
 *.png
 last_result.txt
 __pycache__/
+http_result_*.html
+http_dry_run_fields.txt
+browser_last_result.txt
