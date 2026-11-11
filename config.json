@@ -1,0 +1,51 @@
+{
+  "mobile": "9810603222",
+  "course": "Snow Skiing Courses at Gulmarg",
+  "course_level": "Basic",
+  "schedule": [
+    "4th course",
+    "5th course",
+    "3rd course",
+    "6th course",
+    "2nd course",
+    "1st course"
+  ],
+  "state": "DELHI",
+  "name": "Bhavya Bajaj",
+  "father_name": "Surender Kumar Bajaj",
+  "nationality": "Indian",
+  "dob": "13/01/2002",
+  "domicile": "Delhi",
+  "house_no": "BA-64, 2nd Floor (West)",
+  "street": "Shalimar Bagh",
+  "district_city": "Delhi",
+  "pincode": "110088",
+  "email": "bhavyabajaj88@gmail.com",
+  "education": "Graduation",
+  "diet": "Vegetarian",
+  "blood_group": "B+",
+  "medical_category": "",
+  "height": "",
+  "weight": "",
+  "waist": "",
+  "shoe_size": "",
+  "emergency_name": "Rishabh Bajaj",
+  "emergency_phone": "9899481838",
+  "files": {
+    "birth_certificate": "docs/birth_certificate.jpg",
+    "education": "docs/education.jpg",
+    "photo": "docs/photo.jpg",
+    "signature": "docs/signature.jpg",
+    "guardian_signature": "docs/guardian_signature.jpg",
+    "domicile_proof": "docs/aadhaar.jpg",
+    "adventure_course": "",
+    "employment": ""
+  },
+  "schedule_exclude": [
+    "snow board"
+  ],
+  "top_choices": 3,
+  "confirm_reads": 3,
+  "deep_confirm_reads": 6,
+  "deep_confirm_seconds": 60
+}

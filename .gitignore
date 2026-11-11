@@ -1,7 +1,5 @@
 .venv/
-docs/
 prepared/
 *.png
 last_result.txt
-config.json
 __pycache__/
